@@ -2,7 +2,7 @@
 # RPG Game
 
 A brief description of what this simple game is mentioned here.
-click here "https://wilsonraja01.github.io/rpggame/"
+[Click Here](https://wilsonraja01.github.io/rpggame/)
 
 
 
